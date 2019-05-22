@@ -38,3 +38,4 @@ function mergeSort(array) {
         return merge(mergeSort(firstHalf), mergeSort(secondHalf));
     }
 }
+//
